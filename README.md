@@ -46,7 +46,7 @@
  
   2- скачать на рабочий стол аппарата и запустить start_clone.sh в терминале
  
-    chmod ugo+x /home/bm/'Рабочий стол'/start_clone.sh && ./start_clone
+    chmod ugo+x /home/bm/'Рабочий стол'/start_clone.sh && ./home/bm/'Рабочий стол'/start_clone.sh
     
 3-Все файлы будут находиться в /home/bm/bm_alt
   
