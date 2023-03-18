@@ -43,9 +43,8 @@
   1- Запустить команду из "main_script" (ONLY FOR SUDOERS USER!)
    2- скачать на рабочий стол аппарата и запустить start_clone.sh в терминале
  
-    chmod ugo+x start_clone.sh
-              ./start_clone
-            (ONLY FOR SUDOERS USER!)
+    chmod ugo+x /home/bm/'Рабочий стол'/start_clone.sh && ./start_clone
+    
 3-Все файлы будут находиться в /home/bm/bm_alt
   
 
